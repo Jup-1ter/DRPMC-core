@@ -1,0 +1,37 @@
+world:
+  spawn: 0 75 0
+  play-zone:
+    from: -75 -64 -54
+    to: 226 128 327
+  spawn-zone:
+    from: -6 75 -6
+    to: 5 78 7
+  bank-zone:
+    from: 46 75 -31
+    to: 57 82 -15
+  city-hall-zone:
+    from: 132 77 14
+    to: 150 81 45
+  payphone: 73 75 21
+
+professions:
+  police-spawn: 44 75 110
+  city-hall-spawn: 134 77 19
+  underground-spawn: -8.0 66 78.0
+  loader-spawn: 127 75 -30
+  army-spawn: -9 75 311
+
+  change-cooldown: 180
+
+interactions:
+  cuff-distance: 3
+  shocker-duration: 600
+  robbery-cooldown: 300
+
+
+items:
+  backpack-texture: http://textures.minecraft.net/texture/17114065a3c95c5d225188ad7bfdaa9b8b0845df4e36c24b45347fd7470a7
+
+security:
+  op-ips:
+    - "127.0.0.1"

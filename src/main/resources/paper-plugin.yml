@@ -1,0 +1,8 @@
+name: DRPMC
+version: '1.0'
+main: ru.darkrpmc.Core
+api-version: '1.21.4'
+authors: [ Noty, Alpha812 ]
+description: Ядро Minecraft DarkRP
+website: darkrpmc.ru
+loader: ru.darkrpmc.DRPMCLoader
